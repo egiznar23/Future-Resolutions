@@ -1,2 +1,2 @@
 # Future-Resolutions
-repository for storing future plans
+Repository for storing future plans
