@@ -1,6 +1,6 @@
-- C++
 - JavaScript
 - PHP
 - Java
 - Pyhton
 - Kotlin
+- Ruby
